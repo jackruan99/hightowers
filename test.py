@@ -99,7 +99,7 @@ def run_test8():
         2, 0), (2, 5)), ((2, 5), (4, 5)), ((2, 8), (2, 7)), ((2, 7), (4, 7)), ((4, 2), (6, 2)), ((6, 2), (6, 8))]
     width = 9
     height = 9
-    print('expected:', [])
+    print('expected:', [((1, 1), (1, 6)), ((1, 6), (5, 6)), ((5, 6), (5, 4)), ((5, 4), (3, 4)), ((3, 4), (3, 1)), ((3, 1), (7, 1)), ((7, 1), (7, 7))])
     print('actual:  ', hightowers(start, end, obstacles, width, height))
 
 
@@ -110,4 +110,4 @@ def run_test8():
 # run_test5()  # pass
 # run_test6()  # pass
 # run_test7()  # pass, need post editing
-# run_test8()  # pass, need post editing
+run_test8()  # pass, need post editing
