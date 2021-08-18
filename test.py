@@ -1,4 +1,5 @@
 from hightowers4 import hightowers
+from render import render
 
 
 # TEST 1
@@ -11,6 +12,7 @@ def run_test1():
     height = 3
     print('expected:', [((0, 0), (0, 1))])
     print('actual:  ', hightowers(start, end, obstacles, width, height))
+    render('test1', obstacles, width, height, hightowers(start, end, obstacles, width, height))
 
 
 # TEST 2
@@ -104,10 +106,10 @@ def run_test8():
 
 
 run_test1()  # pass
-run_test2()  # pass
-run_test3()  # pass, need post editing
-run_test4()  # pass, need post editing
-run_test5()  # pass
-run_test6()  # pass
-run_test7()  # pass, need post editing
-run_test8()  # pass, need post editing
+# run_test2()  # pass
+# run_test3()  # pass, need post editing
+# run_test4()  # pass, need post editing
+# run_test5()  # pass
+# run_test6()  # pass
+# run_test7()  # pass, need post editing
+# run_test8()  # pass, need post editing
