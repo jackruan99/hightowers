@@ -103,11 +103,11 @@ def run_test8():
     print('actual:  ', hightowers(start, end, obstacles, width, height))
 
 
-# run_test1()  # pass
-# run_test2()  # pass
-# run_test3()  # pass, need post editing
-# run_test4()  # pass, need post editing
-# run_test5()  # pass
-# run_test6()  # pass
-# run_test7()  # pass, need post editing
+run_test1()  # pass
+run_test2()  # pass
+run_test3()  # pass, need post editing
+run_test4()  # pass, need post editing
+run_test5()  # pass
+run_test6()  # pass
+run_test7()  # pass, need post editing
 run_test8()  # pass, need post editing

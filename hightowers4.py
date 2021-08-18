@@ -319,9 +319,9 @@ def hightowers(source, target, obstacles, grid_width, grid_height):
             raise ValueError('NO INTERSECTION!')
         # STEP 2
         escape_point1 = get_escape_point(object_point1, line1, escape_points, horizontal_obstacles, vertical_obstacles, grid_width, grid_height)
-        print(escape_point1)
+        # print(escape_point1)
         escape_point2 = get_escape_point(object_point2, line2, escape_points, horizontal_obstacles, vertical_obstacles, grid_width, grid_height)
-        print(escape_point2)
+        # print(escape_point2)
         if escape_point1 != None and escape_point2 != None:
             old_object_point1 = object_point1
             old_object_point2 = object_point2
