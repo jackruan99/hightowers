@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="700pt" height="600pt" viewBox="0 0 700 600" version="1.1">
+<g id="surface21">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 210 200 C 210 205.523438 205.523438 210 200 210 C 194.476562 210 190 205.523438 190 200 C 190 194.476562 194.476562 190 200 190 C 205.523438 190 210 194.476562 210 200 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 410 300 C 410 305.523438 405.523438 310 400 310 C 394.476562 310 390 305.523438 390 300 C 390 294.476562 394.476562 290 400 290 C 405.523438 290 410 294.476562 410 300 "/>
+<path style="fill:none;stroke-width:0.06;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 3 2 L 3 4 " transform="matrix(100,0,0,100,0,0)"/>
+<path style="fill:none;stroke-width:0.06;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 3 4 L 5 4 " transform="matrix(100,0,0,100,0,0)"/>
+<path style="fill:none;stroke-width:0.06;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 5 4 L 5 2 " transform="matrix(100,0,0,100,0,0)"/>
+<path style="fill:none;stroke-width:0.06;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 5 2 L 3 2 " transform="matrix(100,0,0,100,0,0)"/>
+<path style="fill:none;stroke-width:0.06;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 1 1 L 1 5 " transform="matrix(100,0,0,100,0,0)"/>
+<path style="fill:none;stroke-width:0.06;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 1 5 L 6 5 " transform="matrix(100,0,0,100,0,0)"/>
+<path style="fill:none;stroke-width:0.06;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 6 5 L 6 1 " transform="matrix(100,0,0,100,0,0)"/>
+<path style="fill:none;stroke-width:0.06;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(100%,0%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 6 1 L 1 1 " transform="matrix(100,0,0,100,0,0)"/>
+</g>
+</svg>

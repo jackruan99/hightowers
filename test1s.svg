@@ -3,5 +3,6 @@
 <g id="surface1">
 <path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 110 100 C 110 105.523438 105.523438 110 100 110 C 94.476562 110 90 105.523438 90 100 C 90 94.476562 94.476562 90 100 90 C 105.523438 90 110 94.476562 110 100 "/>
 <path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 110 200 C 110 205.523438 105.523438 210 100 210 C 94.476562 210 90 205.523438 90 200 C 90 194.476562 94.476562 190 100 190 C 105.523438 190 110 194.476562 110 200 "/>
+<path style="fill:none;stroke-width:0.03;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(0%,100%,0%);stroke-opacity:1;stroke-miterlimit:10;" d="M 1 1 L 1 2 " transform="matrix(100,0,0,100,0,0)"/>
 </g>
 </svg>
